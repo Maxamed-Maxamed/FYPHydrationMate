@@ -50,15 +50,6 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
-    implementation("com.google.firebase:firebase-analytics:20.0.0")
-    implementation("com.google.firebase:firebase-database-ktx:20.0.0")
-    implementation("com.google.firebase:firebase-auth-ktx:20.0.0")
-    implementation("com.google.firebase:firebase-firestore-ktx:20.0.0")
-    implementation("com.google.firebase:firebase-storage-ktx:20.0.0")
-    implementation("com.google.firebase:firebase-messaging-ktx:20.0.0")
-    implementation("com.google.firebase:firebase-crashlytics-ktx:20.0.0")
-    implementation("com.google.firebase:firebase-analytics-ktx:20.0.0")
-
     implementation("androidx.core:core-ktx:1.12.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
 

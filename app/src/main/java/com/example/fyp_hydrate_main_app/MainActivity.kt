@@ -20,8 +20,6 @@ class MainActivity : AppCompatActivity() {
     // TODO: This method is called when the activity may be visible to the user.
     // Make sure to call finish() or else the activity will be leaked!
 
-
-
 }
 
 
